@@ -6,7 +6,7 @@
 console.log("hello world!");
 // 2. Write code to concatenate three strings and output the result to the console:
 // "Hello", " ", "World!"
-
+console.log("hello", " ", "World!")
 // 3. Write code to output "Hello" on one line and "World!" on the next line to the console.
 // *Note: You should only have one console.log() statement - how do you add a new line in
 // a string?...
