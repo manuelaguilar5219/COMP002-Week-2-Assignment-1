@@ -33,6 +33,5 @@ console.log(1 + 2 > 5 || 1 * 10 > 5) // Result: One of the two statements is tru
 // 10. Write code that demonstrates an automatic type conversion as shown in Chapter 01.
 // Const Variable
 const pi = 3.14;
-// pi = 2; // throws an error
 let myNumber = "5" // Converts 5 to mynumber so so that Math.min can compare it with pi. 
 console.log(Math.min(pi, myNumber)); // It Chooses the smaller number
