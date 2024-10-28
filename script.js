@@ -3,14 +3,14 @@
 
 // 1. Write code to output the following string to the console:
 // "Hello World!"
-console.log("hello world!");
+console.log("Hello World!");
 // 2. Write code to concatenate three strings and output the result to the console:
 // "Hello", " ", "World!"
-console.log("hello", " ", "World!")
+console.log("Hello", " ", "World!");
 // 3. Write code to output "Hello" on one line and "World!" on the next line to the console.
 // *Note: You should only have one console.log() statement - how do you add a new line in
 // a string?...
-
+console.log("Hello\nWorld!") // To add a new line in a string you add \n and everything after will be in a new line.
 // 4. Write code to output the result of the arithmetic expression to the console:
 // 3 * 8 + 2;
 
